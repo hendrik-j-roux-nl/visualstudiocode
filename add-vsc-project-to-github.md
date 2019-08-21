@@ -41,22 +41,20 @@ git push -u origin master
 In response to the "push" to the remote repository the GitHub Login Dialog makes the link.  Alternatively, keep a lookout for  Username and Password prompts in the Visual Studio Code Terminal.
 
 ```text
-Username for 'https://github.com': hendrik-j-roux-nl
-Password for 'https://hendrik-j-roux-nl@github.com': 
+Username for 'https://github.com': <repo name>
+Password for 'https://<repo name>@github.com': 
 Counting objects: 38, done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (28/28), done.
 Writing objects: 100% (38/38), 127.33 KiB | 2.71 MiB/s, done.
 Total 38 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), done.
-To https://github.com/hendrik-j-roux-nl/dockerapi.git
+To https://github.com/<repo name>/dockerapi.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
-![Repository Url](.gitbook/assets/clone-or-download-github-repo.jpg)
-
-![Visual Studio Code Terminal Output](.gitbook/assets/visual-studio-terminal-output.jpg)
+![GitHub Repository Url](.gitbook/assets/clone-or-download-github-repo%20%281%29.jpg)
 
 ![GitHub Login Dialog ](.gitbook/assets/github-login-dialog.jpg)
 
