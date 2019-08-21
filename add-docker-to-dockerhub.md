@@ -10,7 +10,7 @@ A docker image exists, created in Visual Studio Code, that is ready to be pushed
 
 ### Log Into Docker Hub
 
-Use a Visual Studio Code Terminal to log into Docker Hub.
+Use a Visual Studio Code Terminal to log into Docker Hub.  **Note**: add bin\ and obj\ to the [_Dockerignore_ file](https://codefresh.io/docker-tutorial/not-ignore-dockerignore/) in the project to avoid loading unnecessary code.
 
 ```text
 PS <docker image path> docker login docker.io
