@@ -14,11 +14,11 @@ Microsoft Azure is a cloud computing platform and services.  One of these provid
 
 Docker containers are run in Azure by an [Azure Container Instance](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal), i.e. without the provision of virtual machines.
 
-![Microsoft Azure Container Instance](.gitbook/assets/microsoft-azure-containeer-instances.jpg)
+![Microsoft Azure Container Instance](.gitbook/assets/microsoft-azure-containeer-instances%20%281%29.jpg)
 
 #### Project Details
 
-Microsoft wants to know how this is paid for.  In this example, an MSDN license was used, i.e. Visual Studio Professional.
+Microsoft wants to know how this is paid for.  In this example, an MSDN license is used, i.e. Visual Studio Professional.
 
 * **Subscription** - Visual Studio Professional/ Pay-as-you-go
 * **Resource group** - collection sharing same life-cycle, permissions, and policies
@@ -58,7 +58,17 @@ Restart, variables, and command overrides.
 * \*\*\*\*[**Command override**](https://docs.microsoft.com/bs-latn-ba/azure/container-instances/container-instances-start-command) - override the baked in command line instructions of the Docker image. This behaviour is similar to the --entrypoint command-line argument to docker run.
 * Tags - name-value pairs to group billing and categorise resources
 
-![Successful Azure Deployment of Docker Container](.gitbook/assets/azure-deployment-of-dockerapi-example-success.jpg)
+![Successful Deployment](.gitbook/assets/azure-deployment-of-dockerapi-example-success%20%281%29.jpg)
+
+### Container Instance Overview
+
+After a successful deployment, using the \[Go to resource\] button, the Container instance overview is visible.
+
+The application is called on: [http://dockerapiexample.uksouth.azurecontainer.io/api/values](http://dockerapiexample.uksouth.azurecontainer.io/api/values)
+
+![Azure Container Instance Management](.gitbook/assets/container-instance-management.jpg)
+
+
 
 
 
