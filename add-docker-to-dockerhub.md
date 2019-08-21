@@ -1,12 +1,12 @@
 ---
-description: Add a created docker image to DockerHub
+description: Add a created docker image to Docker Hub
 ---
 
-# Add Docker to DockerHub
+# Add Contrainer to Docker Hub
 
 ### Introduction
 
-A docker image exists, created in Visual Studio Code, that is ready to be pushed into [DockerHub](https://cloud.docker.com).  Visual Studio Code must be logged into DockerHub, i.e. you need an account.
+A docker image exists, created in Visual Studio Code, that is ready to be pushed into [Docker Hub](https://cloud.docker.com).  Visual Studio Code must be logged into Docker Hub, i.e. you need an account.
 
 ### Log Into Docker Hub
 
