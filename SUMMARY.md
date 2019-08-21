@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Visual Studio Code](README.md)
+* [Add VSC Project to GitHub](add-vsc-project-to-github.md)
 
