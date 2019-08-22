@@ -4,4 +4,5 @@
 * [Add VSC Project to GitHub](add-vsc-project-to-github.md)
 * [Add Contrainer to Docker Hub](add-docker-to-dockerhub.md)
 * [Deploy Docker Image to Azure](deploy-docker-image-to-azure.md)
+* [Visual Studio Code Commands](visual-studio-code-commands.md)
 
