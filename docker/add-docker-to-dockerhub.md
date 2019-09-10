@@ -56,5 +56,5 @@ docker build -t username/image_name:tag_name .
 
 Once the "push" succeeds, the Docker container is registered in Docker Hub.
 
-![Docker Hub Repository Listing](.gitbook/assets/docker-hub-container-entry.jpg)
+![Docker Hub Repository Listing](../.gitbook/assets/docker-hub-container-entry.jpg)
 
