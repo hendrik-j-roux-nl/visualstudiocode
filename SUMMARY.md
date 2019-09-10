@@ -13,4 +13,5 @@
 ## Terraform
 
 * [Infrastructure as Code \(IAC\)](terraform/infrastructure-as-code-iac.md)
+* [Visual Studio Code](terraform/visual-studio-code.md)
 
